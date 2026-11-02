@@ -1,4 +1,4 @@
-# Profile Data APIs: Scrape Social Profiles, Bios and Public People Data
+# Profile Data APIs: Get Public Info From Any Social Media Profile
 
 <p align="center">
  <img src="https://images.bigibyte.com/projects/bigibyte-github-profile-data-apis-cover.png" alt="Profile Data APIs: profile data APIs" width="100%">
@@ -13,11 +13,12 @@
 <p align="center">
  <a href="#top-10-most-popular">Top 10</a> ·
  <a href="#table-of-contents">Categories</a> ·
- <a href="#how-to-use">How to use</a> ·
- <a href="#faq">FAQ</a>
+ <a href="#more-lists">More lists</a>
 </p>
 
-**A big, tidy list of profile data APIs** for social profiles, bios, follower counts and public people data. **22,543 APIs**, sorted by real users so the useful ones show up first.
+Curious about an account on Instagram, TikTok or LinkedIn? Give one of these APIs a username, and it brings back the public bio, picture and follower count. **22,543 ready-to-use APIs**, sorted by real users so the best ones come first.
+
+These profile data APIs help you scrape public social media profiles, bios, follower counts and creator stats. Use them for Instagram, TikTok, LinkedIn, X (Twitter), YouTube, Facebook and Threads profile scraping, influencer research, username search and lead enrichment. Each API runs in the cloud and exports JSON, CSV or Excel.
 
 ---
 
@@ -1062,45 +1063,6 @@ If this list helped you, a star helps other people find it too.
 
 
 [View all 29 in this section →](lists/ebay-walmart.md)
-
----
-
-## How to use
-
-1. Open any API link in this repo.
-2. Read the input fields (usually a username, profile URL or list of handles).
-3. Run a small test so you see the output shape.
-4. Export the dataset as JSON, CSV or Excel, or call the same API from your code.
-
-
-```bash
-# Example: send JSON to any HTTP API you choose
-curl -X POST "https://httpbin.org/post" \
- -H "Content-Type: application/json" \
- -d '{"query":"example","limit":10}'
-```
-
----
-
-## FAQ
-
-**What is the best social profile API?** 
-Start with the [Top 10](#top-10-most-popular). Then open LinkedIn, Instagram, TikTok or X sections that match your network.
-
-**Can I scrape LinkedIn profiles?** 
-See the LinkedIn section. Only use public data, and follow LinkedIn rules and local laws.
-
-**How do I build an influencer list?** 
-Pull profiles from the social sections, keep follower and bio fields, then filter in a spreadsheet.
-
-**How is this list organized?** 
-By theme. Full tables live in the [`lists/`](lists/) folder. The README shows a preview of each category.
-
-**How often is it updated?** 
-Last build: 2026-11-02. Rebuild when you need a newer snapshot.
-
-**Why do some ratings say n/a?** 
-That API has no public rating yet.
 
 ---
 
