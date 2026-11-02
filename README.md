@@ -54,6 +54,17 @@ These **22,543 ready-to-use profile data APIs** help you pull people data into y
 
 Pick an API below, open it, try a small run, then export the results.
 
+<details>
+<summary><b>Who uses profile data APIs? (click to open)</b></summary>
+
+- **Influencer marketers:** find creators and compare followers and engagement.
+- **Brands:** check who is talking about you and who they are.
+- **Recruiters:** read public work history to find the right candidates.
+- **Sales teams:** add social links and bios to lead lists.
+- **Researchers:** study public accounts, usernames and online communities.
+
+</details>
+
 ---
 
 ## ⭐ Star This Repository
